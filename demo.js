@@ -1,0 +1,1 @@
+document.body.getInnerHTML("hello juuuz")
